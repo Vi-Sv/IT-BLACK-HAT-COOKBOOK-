@@ -1,4 +1,4 @@
-IT-BLACK-HAT-COOKBOOK/
+IT-HEIST/
 ├── 01_network_hijacking/              # ГЛАВА 1: Перехват управления (Сети и Трафик)
 │   ├── 01_client_server_exploit.md    # Чит №1: Взлом доверия. Как заставить сервер думать, что ты — это ты.
 │   ├── 02_http_packet_sniffing.md     # Чит №2: Анатомия HTTP-пакета. Ищем скрытые замки в заголовках.
